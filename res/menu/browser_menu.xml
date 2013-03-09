@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/newFolder"
+            android:showAsAction="ifRoom"
+            android:title="newFolder"
+            android:visible="true"
+            android:icon="@drawable/folder"
+            />
+    <item
+            android:id="@+id/uploadFile"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/folder"
+            android:title="uploadToSkyDrive"
+            android:visible="true"
+            />
+    <item
+            android:id="@+id/reload"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/folder"
+            android:title="reload"
+            android:visible="true"
+            />
+    <item android:id="@+id/paste"
+          android:showAsAction="ifRoom"
+          android:title="paste"
+          android:icon="@drawable/folder"
+          android:visible="false"
+            />
+
+    <item android:id="@+id/sharedFiles"
+          android:showAsAction="withText|never"
+          android:title="sharedFiles"/>
+
+    <item android:id="@+id/savedFiles"
+          android:showAsAction="withText|never"
+          android:title="savedFiles"/>
+
+    <item android:title="audioControls"
+          android:showAsAction="withText|never"
+          android:id="@+id/audioControls"/>
+
+    <item android:title="settings"
+          android:showAsAction="withText|never"
+          android:id="@+id/settings"/>
+
+    <item android:id="@+id/signOut"
+          android:showAsAction="withText|never"
+          android:title="signOut"/>
+
+
+</menu>

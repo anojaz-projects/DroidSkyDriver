@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">SkyDrive Browser</string>
+    <string name="initializingMessage">Connecting to your Microsoft account…</string>
+    <string name="firstWelcomeMessage">Sign in with your Microsoft account to get
+        started!
+    </string>
+    <string name="signInToWindowsLive">Sign in</string>
+    <string name="mySkyDrive">Your SkyDrive</string>
+    <string name="automaticSignInError">Couldn\'t connect automatically. Try manually.</string>
+    <string name="manualSignInError">Couldn\'t connect. Do you have an internet connection?</string>
+    <string name="noAccountQuestion">No Microsoft account? Go to live.com and register for 7GB of free storage!</string>
+    <string name="icon">Icon</string>
+    <string name="noItemsInFolder">No files here</string>
+    <string name="newFolderTitle">Create a new folder here</string>
+    <string name="newFolder">New folder</string>
+    <string name="rootFolderTitle">Home</string>
+    <string name="skyDrive">SkyDrive</string>
+    <string name="signOut">Sign out</string>
+    <string name="loggedOut">Logged out</string>
+ 
+</resources>
