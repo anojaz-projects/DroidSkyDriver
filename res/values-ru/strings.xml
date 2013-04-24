@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">SkyDrive Browser(Russian)</string>
+    <string name="initializingMessage">Connecting to your Microsoft account…(Russian)</string>
+    <string name="firstWelcomeMessage">Sign in with your Microsoft account to get
+        started!(Russian)
+    </string>
+    <string name="signInToWindowsLive">Sign in(Russian)</string>
+    <string name="mySkyDrive">Your SkyDrive(Russian)</string>
+    <string name="automaticSignInError">Couldn\'t connect automatically. Try manually.(Russian)</string>
+    <string name="manualSignInError">Couldn\'t connect. Do you have an internet connection?(Russian)</string>
+    <string name="noAccountQuestion">No Microsoft account? Go to live.com and register for 7GB of free storage!(Russian)</string>
+    
+    <string name="icon">Icon(Russian)</string>
+    <string name="noItemsInFolder">No files here(Russian)</string>
+    <string name="newFolderTitle">Create a new folder here(Russian)</string>
+    <string name="newFolder">New folder(Russian)</string>
+    <string name="talkingToSkyDriveWait">Talking to SkyDrive…(Russian)</string>
+    <string name="imageDisplayError">Couldn\'t show the image(Russian)</string>
+    <string name="copyCutSelectedFiles">Ready to paste(Russian)</string>
+    <string name="imageLoading">Loading image...(Russian)</string>
+    <string name="rootFolderTitle">Home(Russian)</string>
+    <string name="savedFilesTitle">Saved files(Russian)</string>
+
+    <string name="deletedFiles">Deleted file(s)(Russian)</string>
+    <string name="movedFiles">Moved file(s)(Russian)</string>
+    <string name="copiedFiles">Copied file(s)(Russian)</string>
+    <string name="renamedFiles">Renamed file(s)(Russian)</string>
+    <string name="serviceLabel">Camera AutoUploader for SkyDrive(Russian)</string>
+
+
+    <string name="fileWillBeDownloaded">The file will be downloaded to your phone(Russian)</string>
+    <string name="ok">OK(Russian)</string>
+    <string name="downloading">Downloading(Russian)</string>
+    <string name="uploading">Uploading(Russian)</string>
+    <string name="downloadingFromSkyDrive">Downloading from SkyDrive…(Russian)</string>
+    <string name="fileSaved">File saved(Russian)</string>
+    <string name="downloadError">Something went wrong while downloading. The file was not saved on your phone.(Russian)</string>
+
+    <string name="savedFileCopy">Copy(Russian)</string>
+    <string name="savedLowerCase">saved(Russian)</string>
+    <string name="from">from(Russian)</string>
+    <string name="to">to(Russian)</string>
+    <string name="skyDrive">SkyDrive(Russian)</string>
+
+    <string name="downloadNoPreview">No preview available(Russian)</string>
+    <string name="downloadFileCannotBeViewed">Can\'t open file for preview. Download instead?(Russian)</string>
+    <string name="openWebBrowser">Open in…(Russian)</string>
+
+    <string name="createFolder">Create folder(Russian)</string>
+    <string name="cancel">Cancel(Russian)</string>
+    <string name="name">Name(Russian)</string>
+    <string name="description">Description (Optional)(Russian)</string>
+    <string name="renameTitle">Rename files and folders(Russian)</string>
+
+    <string name="uploadToSkyDrive">Upload to SkyDrive(Russian)</string>
+    <string name="uploadTo">Upload to(Russian)</string>
+    <string name="uploadingToSkyDrive">Uploading to your SkyDrive…(Russian)</string>
+    <string name="uploadError">Something happened while uploading. The file was not saved in your SkyDrive.(Russian)</string>
+    <string name="uploadToThisFolder">Upload here(Russian)</string>
+    <string name="uploadSelected">Upload selected(Russian)</string>
+    <string name="noFilesInFolder">No files in this folder(Russian)</string>
+
+    <string name="selectedOne">One item selected(Russian)</string>
+    <string name="selectedSeveral">items selected(Russian)</string>
+
+    <string name="selectAll">Select all(Russian)</string>
+    <string name="selectNone">Select none(Russian)</string>
+    <string name="delete">Delete(Russian)</string>
+    <string name="share">Share(Russian)</string>
+    <string name="cut">Cut(Russian)</string>
+    <string name="copy">Copy(Russian)</string>
+    <string name="rename">Rename(Russian)</string>
+    <string name="reload">Refresh(Russian)</string>
+    <string name="download">Download(Russian)</string>
+    <string name="close">Close(Russian)</string>
+    <string name="paste">Paste(Russian)</string>
+    <string name="signOut">Sign out(Russian)</string>
+    <string name="loggedOut">Logged out(Russian)</string>
+    <string name="savedFiles">Saved files(Russian)</string>
+    <string name="camera">Camera capture(Russian)</string>
+    <string name="cameraclick_info">Click on the \'Take Picture\' to take a picture using Camera. Note: Please insert an SD card before using the camera.(Russian)</string>
+    <string name="take_picture">Take Picture(Russian)</string>
+
+    <string name="deleteConfirmationTitle">Delete files?(Russian)</string>
+    <string name="deleteConfirmationBody">These files will be deleted(Russian): \n\n</string>
+    <string name="deleteConfirmationQuestion">Are you sure you want to do this?(Russian)</string>
+    <string name="yes">Yes(Russian)</string>
+    <string name="no">No(Russian)</string>
+
+
+    <string name="appExitConfirmationHeader">Are you sure you want to close?(Russian)</string>
+    <string name="confirmExitHeader">Confirm on app exit(Russian)</string>
+    <string name="confirmExitSummary">Stops you from accidentally closing the app by presenting a confirmation dialog on
+        exit(Russian)
+    </string>
+
+    <string name="sharedFiles">Shared files(Russian)</string>
+    <string name="sharingLinks">Sharing links(Russian)</string>
+    <string name="sharingLinksSummary">Anyone with these links will be able to see the file(Russian)</string>
+    <string name="sharingGeneratingLinks">Generating sharing links…(Russian)</string>
+    <string name="sharingEnableEditing">Allow file editing(Russian)</string>
+
+    <string name="buffering">Buffering(Russian)</string>
+    <string name="playing">Playing(Russian)</string>
+    <string name="play">Play(Russian)</string>
+    <string name="pause">Pause(Russian)</string>
+    <string name="paused">Paused(Russian)</string>
+    <string name="saved">Saved(Russian)</string>
+    <string name="stop">Stop(Russian)</string>
+    <string name="stopped">Stopped(Russian)</string>
+
+    <string name="errorFolderCouldNotBeCreated">Something went wrong in creating the folder. Please try again.(Russian)</string>
+    <string name="errorNoApplicationCouldOpenTheFile">No application could open the file(Russian)</string>
+    <string name="errorOpeningAudioFile">Could not open audio file(Russian)</string>
+    <string name="errorDuringLogin">Error during login(Russian)</string>
+    <string name="errorDeletingFile">Error deleting file(s)(Russian)</string>
+    <string name="errorMovingFile">Error moving file(s)(Russian)</string>
+    <string name="errorRenamingFile">Error renaming file(s)(Russian)</string>
+    <string name="errorCopyingFile">Error copying file(s)(Russian)</string>
+    <string name="errorCouldNotFetchFileForSharing">Could not find the file you shared, sorry!(Russian)</string>
+    <string name="errorTooManyFilesAtOnce">Can\'t handle more than 99 files in one go, sorry. Handling as many as I
+        can!(Russian)
+    </string>
+    <string name="errorLoggedOut">You\'ve been logged out and have to log in again to keep using the app(Russian)</string>
+    <string name="errorQuotaFetch">Couldn\'t get numbers(Russian)</string>
+    <string name="errorFileNotFound">Couldn\'t find the file, it has not been uploaded(Russian)</string>
+
+    <string name="settings">Settings(Russian)</string>
+    <string name="cameraUploadHeader">Camera upload(Russian)</string>
+    <string name="cameraUploadSummary">Upload camera images automatically(Russian)</string>
+    <string name="limitCameraToWifiHeader">Only upload while on WiFi(Russian)</string>
+    <string name="limitCameraToWifiSummary">Use this if you do not have a data plan. Changes require app restart.(Russian)
+    </string>
+    <string name="limitDataToWiFiHeader">Limit all app traffic to WiFi(Russian)</string>
+    <string name="limitDataToWiFiSummary">Use this if you do not have a data plan. Changes require app restart.(Russian)</string>
+    <string name="noInternetConnection">No available WiFi connection. Enable mobile data in settings to use the app.(Russian)
+    </string>
+    <string name="downloadLocation">Download location(Russian)</string>
+    <string name="downloadLocationSummary">Where you want your files to be downloaded(Russian)</string>
+
+    <string name="preferencesFeatures">App features(Russian)</string>
+    <string name="preferencesData">Data usage(Russian)</string>
+    <string name="preferencesAbout">About the app(Russian)</string>
+    <string name="disableThumb">Disable thumbnails(Russian)</string>
+    <string name="disableThumbSummary">Conserves memory and bandwidth. Disable thumbnails if you experience crashes.(Russian)
+    </string>
+    <string name="donate">Donate(Russian)</string>
+    <string name="donateSummary">Click to donate a small amount to help out the developer.(Russian)</string>
+    <string name="skyDriveQuota">Space on SkyDrive(Russian)</string>
+    <string name="skyDriveQuotaLoading">Getting numbers from SkyDrive…(Russian)</string>
+    <string name="skyDriveQuotaSummary">You\'re using %1$s of %2$s available(Russian)</string>
+
+    <string name="audioServiceName">SkyDrive Music Browser(Russian)</string>
+    <string name="audioBuffering">Buffering song(Russian)</string>
+    <string name="audioBufferingSummary">Buffering the song from your SkyDrive(Russian)</string>
+    <string name="audioNotPlaying">Not playing(Russian)</string>
+    <string name="audioNotPlayingSummary">No songs in playlist. Tap some songs in the app to play them.(Russian)</string>
+    <string name="audioPlaying">Playing(Russian)</string>
+    <string name="audioReturnToControls">Tap this notification to open music controls.(Russian)</string>
+    <string name="audioStopped">Stopped(Russian)</string>
+    <string name="audioStarted">Started(Russian)</string>
+    <string name="audioPaused">Paused(Russian)</string>
+    <string name="audioUpNext">Up next(Russian)</string>
+    <string name="audioQueue">Queue(Russian)</string>
+    <string name="audioShuffle">Shuffle(Russian)</string>
+    <string name="audioRepeat">Repeat(Russian)</string>
+    <string name="audioRemove">Remove(Russian)</string>
+    <string name="audioStop">Stop(Russian)</string>
+    <string name="audioPlay">Play(Russian)</string>
+    <string name="audioPause">Pause(Russian)</string>
+    <string name="audioSkip">Skip(Russian)</string>
+    <string name="audioAddedToPlayingQueue">added to playing queue(Russian)</string>
+    <string name="audioTapASong">Tap a song(Russian)</string>
+    <string name="audioTapToAddToQueue">Tap a song to add it to the playing queue(Russian)</string>
+    <string name="audioNothingToSkipTo">No song to skip to(Russian)</string>
+    <string name="audioQueueInstructions">Drag and drop to change the queue. Slide left to remove.(Russian)</string>
+    <string name="audioControls">Music controls(Russian)</string>
+
+    <string name="audioQueueClear">Clear(Russian)</string>
+
+
+</resources>

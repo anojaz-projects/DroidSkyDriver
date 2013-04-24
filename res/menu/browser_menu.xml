@@ -4,50 +4,57 @@
     <item
             android:id="@+id/newFolder"
             android:showAsAction="ifRoom"
-            android:title="newFolder"
+            android:title="@string/newFolder"
             android:visible="true"
-            android:icon="@drawable/folder"
+            android:icon="@drawable/ic_menu_add_folder"
             />
     <item
             android:id="@+id/uploadFile"
             android:showAsAction="ifRoom"
-            android:icon="@drawable/folder"
-            android:title="uploadToSkyDrive"
+            android:icon="@drawable/ic_menu_upload"
+            android:title="@string/uploadToSkyDrive"
+            android:visible="true"
+            />
+    <item
+            android:id="@+id/camera"
+            android:showAsAction="ifRoom"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/camera"
             android:visible="true"
             />
     <item
             android:id="@+id/reload"
             android:showAsAction="ifRoom"
-            android:icon="@drawable/folder"
-            android:title="reload"
+            android:icon="@drawable/ic_menu_refresh"
+            android:title="@string/reload"
             android:visible="true"
             />
     <item android:id="@+id/paste"
           android:showAsAction="ifRoom"
-          android:title="paste"
-          android:icon="@drawable/folder"
+          android:title="@string/paste"
+          android:icon="@drawable/ic_menu_set_as"
           android:visible="false"
             />
 
     <item android:id="@+id/sharedFiles"
           android:showAsAction="withText|never"
-          android:title="sharedFiles"/>
+          android:title="@string/sharedFiles"/>
 
     <item android:id="@+id/savedFiles"
           android:showAsAction="withText|never"
-          android:title="savedFiles"/>
+          android:title="@string/savedFiles"/>
 
-    <item android:title="audioControls"
+    <item android:title="@string/audioControls"
           android:showAsAction="withText|never"
           android:id="@+id/audioControls"/>
 
-    <item android:title="settings"
+    <item android:title="@string/settings"
           android:showAsAction="withText|never"
           android:id="@+id/settings"/>
 
     <item android:id="@+id/signOut"
           android:showAsAction="withText|never"
-          android:title="signOut"/>
+          android:title="@string/signOut"/>
 
 
 </menu>

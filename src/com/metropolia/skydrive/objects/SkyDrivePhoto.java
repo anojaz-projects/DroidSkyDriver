@@ -1,12 +1,17 @@
-//------------------------------------------------------------------------------
-// Copyright (c) 2012 Microsoft Corporation. All rights reserved.
-//------------------------------------------------------------------------------
-
 package com.metropolia.skydrive.objects;
+
+/**
+ * @author Anoja
+ * Date: 29.03.13
+ * Time: 08:15
+ */
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+/**
+ * This class represents a sky-drive object i.e. Sky-drive Photo.
+ */
 
 public class SkyDrivePhoto extends SkyDriveObject
 {

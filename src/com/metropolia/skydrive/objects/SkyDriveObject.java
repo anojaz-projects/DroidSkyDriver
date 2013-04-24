@@ -1,11 +1,17 @@
-//------------------------------------------------------------------------------
-// Copyright (c) 2012 Microsoft Corporation. All rights reserved.
-//------------------------------------------------------------------------------
-
 package com.metropolia.skydrive.objects;
+
+/**
+ * @author Anoja
+ * Date: 29.03.13
+ * Time: 07:15
+ */
 
 import android.os.Environment;
 import org.json.JSONObject;
+
+/**
+ * This class encapsulates all of the sky-drive objects.
+ */
 
 public abstract class SkyDriveObject
 {

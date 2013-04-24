@@ -1,10 +1,16 @@
-//------------------------------------------------------------------------------
-// Copyright (c) 2012 Microsoft Corporation. All rights reserved.
-//------------------------------------------------------------------------------
-
 package com.metropolia.skydrive.objects;
 
+/**
+ * @author Anoja
+ * Date: 07.04.13
+ * Time: 18:01
+ */
+
 import org.json.JSONObject;
+
+/**
+ * This class represents a sky-drive object i.e. Sky-drive Audio file.
+ */
 
 public class SkyDriveAudio extends SkyDriveObject
 {

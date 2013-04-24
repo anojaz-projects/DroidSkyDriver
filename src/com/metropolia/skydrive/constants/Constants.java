@@ -3,13 +3,13 @@ package com.metropolia.skydrive.constants;
 import com.metropolia.skydrive.util.Scopes;
 
 /**
- * User: Anoja
+ * @author Anoja
  * Date: 27.02.13
  * Time: 14:03
  */
 final public class Constants
 {
-    public static final String APP_CLIENT_ID = "00000000400C35DF";
+	public static final String APP_CLIENT_ID = "00000000480D5D82";
 
     /* App permissions. Be as precise as possible. */
     public static final String[] APP_SCOPES = {
@@ -21,6 +21,14 @@ final public class Constants
 
     public static final String LOGTAG = "ASE";
 
+
+    /* Actions */
+    public static final String ACTION_CANCEL_DOWN = "com.metropolia.skydrive.CANCEL_DOWN";
+    public static final String ACTION_CANCEL_UP = "com.metropolia.skydrive.CANCEL_UP";
+    public static final String ACTION_SONG_CHANGE = "com.metropolia.skydrive.SONG_CHANGE";
+
+    /* Extras */
+    public static final String EXTRA_SONG_TITLE = "songTitle";
 
     /* Saved state */
     public static final String STATE_CURRENT_FOLDER = "currentFolderState";

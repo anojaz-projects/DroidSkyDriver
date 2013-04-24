@@ -1,5 +1,11 @@
 package com.metropolia.skydrive;
 
+/**
+ * @author Anoja
+ * Date: 25.03.13
+ * Time: 04:45
+ */
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Environment;
@@ -18,6 +24,12 @@ import com.microsoft.live.*;
 
 import java.io.File;
 import java.util.Arrays;
+
+/**
+ * This class handles the user sign-in functionality. Successful sign-in
+ * passes control to BrowserActivity from where user can browser through
+ * the sky-drive files and folders.
+ */
 
 public class SignInActivity extends SherlockActivity
 {
@@ -284,7 +296,7 @@ public class SignInActivity extends SherlockActivity
                     });
                 } catch (IllegalStateException e)
                 {
-                    Toast.makeText(getApplicationContext(), "errorDuringLogin", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), getString(R.string.errorDuringLogin), Toast.LENGTH_SHORT).show();
                     finish();
                 }
             }

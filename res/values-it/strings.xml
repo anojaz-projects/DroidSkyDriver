@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">SkyDrive Browser(Italian)</string>
+    <string name="initializingMessage">Connecting to your Microsoft account…(Italian)</string>
+    <string name="firstWelcomeMessage">Sign in with your Microsoft account to get
+        started!(Italian)
+    </string>
+    <string name="signInToWindowsLive">Sign in(Italian)</string>
+    <string name="mySkyDrive">Your SkyDrive(Italian)</string>
+    <string name="automaticSignInError">Couldn\'t connect automatically. Try manually.(Italian)</string>
+    <string name="manualSignInError">Couldn\'t connect. Do you have an internet connection?(Italian)</string>
+    <string name="noAccountQuestion">No Microsoft account? Go to live.com and register for 7GB of free storage!(Italian)</string>
+    
+    <string name="icon">Icon(Italian)</string>
+    <string name="noItemsInFolder">No files here(Italian)</string>
+    <string name="newFolderTitle">Create a new folder here(Italian)</string>
+    <string name="newFolder">New folder(Italian)</string>
+    <string name="talkingToSkyDriveWait">Talking to SkyDrive…(Italian)</string>
+    <string name="imageDisplayError">Couldn\'t show the image(Italian)</string>
+    <string name="copyCutSelectedFiles">Ready to paste(Italian)</string>
+    <string name="imageLoading">Loading image...(Italian)</string>
+    <string name="rootFolderTitle">Home(Italian)</string>
+    <string name="savedFilesTitle">Saved files(Italian)</string>
+
+    <string name="deletedFiles">Deleted file(s)(Italian)</string>
+    <string name="movedFiles">Moved file(s)(Italian)</string>
+    <string name="copiedFiles">Copied file(s)(Italian)</string>
+    <string name="renamedFiles">Renamed file(s)(Italian)</string>
+    <string name="serviceLabel">Camera AutoUploader for SkyDrive(Italian)</string>
+
+
+    <string name="fileWillBeDownloaded">The file will be downloaded to your phone(Italian)</string>
+    <string name="ok">OK(Italian)</string>
+    <string name="downloading">Downloading(Italian)</string>
+    <string name="uploading">Uploading(Italian)</string>
+    <string name="downloadingFromSkyDrive">Downloading from SkyDrive…(Italian)</string>
+    <string name="fileSaved">File saved(Italian)</string>
+    <string name="downloadError">Something went wrong while downloading. The file was not saved on your phone.(Italian)</string>
+
+    <string name="savedFileCopy">Copy(Italian)</string>
+    <string name="savedLowerCase">saved(Italian)</string>
+    <string name="from">from(Italian)</string>
+    <string name="to">to(Italian)</string>
+    <string name="skyDrive">SkyDrive(Italian)</string>
+
+    <string name="downloadNoPreview">No preview available(Italian)</string>
+    <string name="downloadFileCannotBeViewed">Can\'t open file for preview. Download instead?(Italian)</string>
+    <string name="openWebBrowser">Open in…(Italian)</string>
+
+    <string name="createFolder">Create folder(Italian)</string>
+    <string name="cancel">Cancel(Italian)</string>
+    <string name="name">Name(Italian)</string>
+    <string name="description">Description (Optional)(Italian)</string>
+    <string name="renameTitle">Rename files and folders(Italian)</string>
+
+    <string name="uploadToSkyDrive">Upload to SkyDrive(Italian)</string>
+    <string name="uploadTo">Upload to(Italian)</string>
+    <string name="uploadingToSkyDrive">Uploading to your SkyDrive…(Italian)</string>
+    <string name="uploadError">Something happened while uploading. The file was not saved in your SkyDrive.(Italian)</string>
+    <string name="uploadToThisFolder">Upload here(Italian)</string>
+    <string name="uploadSelected">Upload selected(Italian)</string>
+    <string name="noFilesInFolder">No files in this folder(Italian)</string>
+
+    <string name="selectedOne">One item selected(Italian)</string>
+    <string name="selectedSeveral">items selected(Italian)</string>
+
+    <string name="selectAll">Select all(Italian)</string>
+    <string name="selectNone">Select none(Italian)</string>
+    <string name="delete">Delete(Italian)</string>
+    <string name="share">Share(Italian)</string>
+    <string name="cut">Cut(Italian)</string>
+    <string name="copy">Copy(Italian)</string>
+    <string name="rename">Rename(Italian)</string>
+    <string name="reload">Refresh(Italian)</string>
+    <string name="download">Download(Italian)</string>
+    <string name="close">Close(Italian)</string>
+    <string name="paste">Paste(Italian)</string>
+    <string name="signOut">Sign out(Italian)</string>
+    <string name="loggedOut">Logged out(Italian)</string>
+    <string name="savedFiles">Saved files(Italian)</string>
+    <string name="camera">Camera capture(Italian)</string>
+    <string name="cameraclick_info">Click on the \'Take Picture\' to take a picture using Camera. Note: Please insert an SD card before using the camera.(Italian)</string>
+    <string name="take_picture">Take Picture(Italian)</string>
+
+    <string name="deleteConfirmationTitle">Delete files?(Italian)</string>
+    <string name="deleteConfirmationBody">These files will be deleted(Italian): \n\n</string>
+    <string name="deleteConfirmationQuestion">Are you sure you want to do this?(Italian)</string>
+    <string name="yes">Yes(Italian)</string>
+    <string name="no">No(Italian)</string>
+
+
+    <string name="appExitConfirmationHeader">Are you sure you want to close?(Italian)</string>
+    <string name="confirmExitHeader">Confirm on app exit(Italian)</string>
+    <string name="confirmExitSummary">Stops you from accidentally closing the app by presenting a confirmation dialog on
+        exit(Italian)
+    </string>
+
+    <string name="sharedFiles">Shared files(Italian)</string>
+    <string name="sharingLinks">Sharing links(Italian)</string>
+    <string name="sharingLinksSummary">Anyone with these links will be able to see the file(Italian)</string>
+    <string name="sharingGeneratingLinks">Generating sharing links…(Italian)</string>
+    <string name="sharingEnableEditing">Allow file editing(Italian)</string>
+
+    <string name="buffering">Buffering(Italian)</string>
+    <string name="playing">Playing(Italian)</string>
+    <string name="play">Play(Italian)</string>
+    <string name="pause">Pause(Italian)</string>
+    <string name="paused">Paused(Italian)</string>
+    <string name="saved">Saved(Italian)</string>
+    <string name="stop">Stop(Italian)</string>
+    <string name="stopped">Stopped(Italian)</string>
+
+    <string name="errorFolderCouldNotBeCreated">Something went wrong in creating the folder. Please try again.(Italian)</string>
+    <string name="errorNoApplicationCouldOpenTheFile">No application could open the file(Italian)</string>
+    <string name="errorOpeningAudioFile">Could not open audio file(Italian)</string>
+    <string name="errorDuringLogin">Error during login(Italian)</string>
+    <string name="errorDeletingFile">Error deleting file(s)(Italian)</string>
+    <string name="errorMovingFile">Error moving file(s)(Italian)</string>
+    <string name="errorRenamingFile">Error renaming file(s)(Italian)</string>
+    <string name="errorCopyingFile">Error copying file(s)(Italian)</string>
+    <string name="errorCouldNotFetchFileForSharing">Could not find the file you shared, sorry!(Italian)</string>
+    <string name="errorTooManyFilesAtOnce">Can\'t handle more than 99 files in one go, sorry. Handling as many as I
+        can!(Italian)
+    </string>
+    <string name="errorLoggedOut">You\'ve been logged out and have to log in again to keep using the app(Italian)</string>
+    <string name="errorQuotaFetch">Couldn\'t get numbers(Italian)</string>
+    <string name="errorFileNotFound">Couldn\'t find the file, it has not been uploaded(Italian)</string>
+
+    <string name="settings">Settings(Italian)</string>
+    <string name="cameraUploadHeader">Camera upload(Italian)</string>
+    <string name="cameraUploadSummary">Upload camera images automatically(Italian)</string>
+    <string name="limitCameraToWifiHeader">Only upload while on WiFi(Italian)</string>
+    <string name="limitCameraToWifiSummary">Use this if you do not have a data plan. Changes require app restart.(Italian)
+    </string>
+    <string name="limitDataToWiFiHeader">Limit all app traffic to WiFi(Italian)</string>
+    <string name="limitDataToWiFiSummary">Use this if you do not have a data plan. Changes require app restart.(Italian)</string>
+    <string name="noInternetConnection">No available WiFi connection. Enable mobile data in settings to use the app.(Italian)
+    </string>
+    <string name="downloadLocation">Download location(Italian)</string>
+    <string name="downloadLocationSummary">Where you want your files to be downloaded(Italian)</string>
+
+    <string name="preferencesFeatures">App features(Italian)</string>
+    <string name="preferencesData">Data usage(Italian)</string>
+    <string name="preferencesAbout">About the app(Italian)</string>
+    <string name="disableThumb">Disable thumbnails(Italian)</string>
+    <string name="disableThumbSummary">Conserves memory and bandwidth. Disable thumbnails if you experience crashes.(Italian)
+    </string>
+    <string name="donate">Donate(Italian)</string>
+    <string name="donateSummary">Click to donate a small amount to help out the developer.(Italian)</string>
+    <string name="skyDriveQuota">Space on SkyDrive(Italian)</string>
+    <string name="skyDriveQuotaLoading">Getting numbers from SkyDrive…(Italian)</string>
+    <string name="skyDriveQuotaSummary">You\'re using %1$s of %2$s available(Italian)</string>
+
+    <string name="audioServiceName">SkyDrive Music Browser(Italian)</string>
+    <string name="audioBuffering">Buffering song(Italian)</string>
+    <string name="audioBufferingSummary">Buffering the song from your SkyDrive(Italian)</string>
+    <string name="audioNotPlaying">Not playing(Italian)</string>
+    <string name="audioNotPlayingSummary">No songs in playlist. Tap some songs in the app to play them.(Italian)</string>
+    <string name="audioPlaying">Playing(Italian)</string>
+    <string name="audioReturnToControls">Tap this notification to open music controls.(Italian)</string>
+    <string name="audioStopped">Stopped(Italian)</string>
+    <string name="audioStarted">Started(Italian)</string>
+    <string name="audioPaused">Paused(Italian)</string>
+    <string name="audioUpNext">Up next(Italian)</string>
+    <string name="audioQueue">Queue(Italian)</string>
+    <string name="audioShuffle">Shuffle(Italian)</string>
+    <string name="audioRepeat">Repeat(Italian)</string>
+    <string name="audioRemove">Remove(Italian)</string>
+    <string name="audioStop">Stop(Italian)</string>
+    <string name="audioPlay">Play(Italian)</string>
+    <string name="audioPause">Pause(Italian)</string>
+    <string name="audioSkip">Skip(Italian)</string>
+    <string name="audioAddedToPlayingQueue">added to playing queue(Italian)</string>
+    <string name="audioTapASong">Tap a song(Italian)</string>
+    <string name="audioTapToAddToQueue">Tap a song to add it to the playing queue(Italian)</string>
+    <string name="audioNothingToSkipTo">No song to skip to(Italian)</string>
+    <string name="audioQueueInstructions">Drag and drop to change the queue. Slide left to remove.(Italian)</string>
+    <string name="audioControls">Music controls(Italian)</string>
+
+    <string name="audioQueueClear">Clear(Italian)</string>
+
+
+</resources>

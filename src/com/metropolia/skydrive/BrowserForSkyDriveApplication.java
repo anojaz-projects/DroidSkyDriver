@@ -1,5 +1,11 @@
 package com.metropolia.skydrive;
 
+/**
+ * @author Anoja
+ * Date: 27.02.13
+ * Time: 14:29
+ */
+
 import android.app.Application;
 import android.os.FileObserver;
 import android.util.SparseBooleanArray;
@@ -16,9 +22,8 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 /**
- * User: Anoja
- * Date: 27.02.13
- * Time: 14:29
+ * This class acts like a utility class with methods to get/set Auth client,
+ * Connect client etc.
  */
 public class BrowserForSkyDriveApplication extends Application
 {

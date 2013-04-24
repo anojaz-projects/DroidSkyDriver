@@ -1,7 +1,7 @@
 package com.metropolia.skydrive.constants;
 
 /**
- * User: Anoja
+ * @author Anoja
  * Date: 27.02.13
  * Time: 17:18
  */

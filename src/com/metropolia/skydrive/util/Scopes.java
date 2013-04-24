@@ -1,9 +1,15 @@
 package com.metropolia.skydrive.util;
 
 /**
- * User: Anoja
- * 
+ * @author Anoja
+ * Date: 22.03.13
+ * Time: 09:45
  */
+
+/**
+ * This class provides the scopes used for the Sky-drive.
+ */
+
 public final class Scopes
 {
 
