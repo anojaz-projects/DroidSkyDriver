@@ -80,7 +80,6 @@
     <string name="loggedOut">Logged out(Russian)</string>
     <string name="savedFiles">Saved files(Russian)</string>
     <string name="camera">Camera capture(Russian)</string>
-	<string name="cameraFragmentMessage">Camera Fragment(Russian)</string>
     <string name="cameraclick_info">Click on the \'Take Picture\' to take a picture using Camera. Note: Please insert an SD card before using the camera.(Russian)</string>
     <string name="take_picture">Take Picture(Russian)</string>
 
