@@ -1,3 +1,6 @@
 [submodule "ActionBarSherlock"]
 	path = ActionBarSherlock
 	url = https://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "LiveSDK-for-Android"]
+	path = LiveSDK-for-Android
+	url = https://github.com/liveservices/LiveSDK-for-Android.git
